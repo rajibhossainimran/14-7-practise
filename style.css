@@ -4,8 +4,10 @@
 }
 
 .header-line {
+    position: fixed;
     background-image: linear-gradient(rgb(243, 239, 205), #ffff);
     height: 70px;
+    width: 100%;
 }
 
 #header-logo {
